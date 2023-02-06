@@ -21,11 +21,7 @@ npm run dev
 
 After this, you can open the website project on the local server. By default, the local server used is http://localhost:3000/
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Screenshot Applications
+#1. Landing Page
+This is the main page or when the user first opens the website and succeeds.
+![landing-1](https://user-images.githubusercontent.com/55655608/216897432-a83d5b0c-7950-4906-ab2b-c17ed883f0ef.png)
