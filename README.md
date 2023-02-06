@@ -1,8 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Pokemon Application
+The Pokemon Application is an internship project for PT Gravel Indonesia's take home assignment. In this project, we can see the full list and details on Pokemon API data (https://pokeapi.co/docs/v2).
+
+The technology that I used for this project, including:
+- Next.Js (React.Js Framework)
+- Bootstrap (CSS Framework)
+- Axios (Http Client Library)
 
 ## Getting Started
+To run the project, you can first clone this repository. After that, you can install dependencies on this project, by issuing commands like the following:
 
-First, run the development server:
+```bash
+npm install
+```
+
+Next, run the development server:
 
 ```bash
 npm run dev
