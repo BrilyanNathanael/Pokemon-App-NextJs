@@ -22,7 +22,7 @@ npm run dev
 After this, you can open the website project on the local server. By default, the local server used is http://localhost:3000/
 
 ## Screenshot Applications
-**1. Landing Page** <br/>
+**1. Main Page** <br/>
 This is the main page or when the user first opens the website and succeeds.
 ![landing-1](https://user-images.githubusercontent.com/55655608/216897432-a83d5b0c-7950-4906-ab2b-c17ed883f0ef.png)
 
