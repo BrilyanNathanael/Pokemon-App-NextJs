@@ -21,6 +21,9 @@ npm run dev
 
 After this, you can open the website project on the local server. By default, the local server used is http://localhost:3000/
 
+## Deployment
+I did deployment using Vercel and the website can be accessed with the url https://pokemon-app-rho-weld.vercel.app/
+
 ## Screenshot Applications
 **1. Main Page** <br/>
 This is the main page or when the user first opens the website and succeeds.
