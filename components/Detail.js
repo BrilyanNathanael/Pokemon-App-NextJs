@@ -17,7 +17,6 @@ export default function Detail({ pokemon }) {
         <div className="col-md-7">
           <p className="text-secondary mb-0">Name Pokemon</p>
           <h1 className="text-white mb-4">
-            {/* {pokemon.name[0].toUpperCase() + pokemon.name.substring(1)} */}
             {pokemon.name &&
               pokemon.name[0].toUpperCase() + pokemon.name.substring(1)}
           </h1>
@@ -119,7 +118,7 @@ export default function Detail({ pokemon }) {
             {pokemon.moves &&
               pokemon.moves.map((pk, index) => {
                 return (
-                  <div className="col-sm-3 text-white mb-2">
+                  <div className="col-sm-3 text-white mb-2" key={index}>
                     <li>{pk.move.name}</li>
                   </div>
                 );

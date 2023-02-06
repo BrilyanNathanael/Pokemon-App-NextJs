@@ -11,7 +11,7 @@ export default function Landing({ image }) {
             <div className={`${styles.line} ms-3 mt-1`}></div>
           </div>
           <h1 className="mt-3 mb-3">
-            Catch'em! Collect your Strongest and Rarest Pokemon
+            Catch{`'`}em! Collect your Strongest and Rarest Pokemon
           </h1>
           <p className="text-secondary">Catch all of the pokemon.</p>
           <a
