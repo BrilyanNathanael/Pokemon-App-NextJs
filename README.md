@@ -7,7 +7,7 @@ The technology that I used for this project, including:
 - Axios (Http Client Library)
 
 ## Getting Started
-To run the project, you can first clone this repository. After that, you can install dependencies on this project, by issuing commands like the following:
+To run the project, you can first clone this repository. After that, you can install dependencies on this project, by running a command like the following:
 
 ```bash
 npm install
