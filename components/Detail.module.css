@@ -1,0 +1,37 @@
+.btn {
+  cursor: default;
+}
+
+.normal,
+.normal:hover {
+  background: rgb(238, 195, 115);
+}
+
+.bug,
+.bug:hover {
+  background: rgb(160, 130, 215);
+}
+
+.fire,
+.fire:hover {
+  background-color: rgb(212, 65, 65);
+}
+
+.grass,
+.grass:hover {
+  background-color: rgb(23, 177, 95);
+}
+
+.water,
+.water:hover {
+  background-color: rgb(23, 87, 177);
+}
+
+.flying,
+.flying:hover {
+  background-color: rgb(23, 177, 95);
+}
+
+/* .poison {
+  background: rgb(191, 172, 226);
+} */

@@ -1,0 +1,55 @@
+.pokecard {
+  border-radius: 10px;
+  box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+  transition: 0.5s;
+}
+
+.pokecard:hover {
+  transform: scale(1.2);
+  transition: 0.5s;
+}
+
+.grass {
+  background: rgb(243, 236, 176);
+  background: linear-gradient(
+    22deg,
+    rgba(243, 236, 176, 1) 0%,
+    rgba(181, 241, 204, 1) 100%
+  );
+}
+
+.fire {
+  background: rgb(255, 211, 132);
+  background: linear-gradient(
+    22deg,
+    rgba(255, 211, 132, 1) 0%,
+    rgba(255, 136, 75, 1) 100%
+  );
+}
+
+.water {
+  background: rgb(121, 120, 255);
+  background: linear-gradient(
+    22deg,
+    rgba(121, 120, 255, 1) 0%,
+    rgba(70, 73, 255, 1) 100%
+  );
+}
+
+.bug {
+  background: rgb(191, 172, 226);
+  background: linear-gradient(
+    22deg,
+    rgba(191, 172, 226, 1) 0%,
+    rgba(160, 132, 220, 1) 100%
+  );
+}
+
+.normal {
+  background: rgb(238, 195, 115);
+  background: linear-gradient(
+    22deg,
+    rgba(238, 195, 115, 1) 0%,
+    rgba(202, 150, 92, 1) 100%
+  );
+}
