@@ -19,6 +19,8 @@ Next, run the development server:
 npm run dev
 ```
 
+After this, you can open the website project on the local server. By default, the local server used is http://localhost:3000/
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
