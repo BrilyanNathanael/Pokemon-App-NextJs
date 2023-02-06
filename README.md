@@ -22,6 +22,9 @@ npm run dev
 After this, you can open the website project on the local server. By default, the local server used is http://localhost:3000/
 
 ## Screenshot Applications
-#1. Landing Page
+**1. Landing Page** <br/>
 This is the main page or when the user first opens the website and succeeds.
 ![landing-1](https://user-images.githubusercontent.com/55655608/216897432-a83d5b0c-7950-4906-ab2b-c17ed883f0ef.png)
+
+When the user scrolls down on the main page, the user can see a list of all Pokemon API data that has been fetched
+![landing-2](https://user-images.githubusercontent.com/55655608/216898048-5580172a-186b-4dc0-a42e-85029944b661.png)
