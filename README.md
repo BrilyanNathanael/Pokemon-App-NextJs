@@ -32,3 +32,4 @@ When the user scrolls down on the main page, the user can see a list of all Poke
 **2. Detail Page** <br/>
 If the user clicks on a pokemon from the list, then the user will be directed to a detail page, where the data will display the image, name, type, abilities, weight, height, stats, and moves of that pokemon
 ![detail-1](https://user-images.githubusercontent.com/55655608/216898486-b7d384de-73eb-49f3-979f-b3b3ece37e94.png)
+![detail-2](https://user-images.githubusercontent.com/55655608/216898883-b460133d-b77e-4dbe-8048-14be2f562e83.png)
